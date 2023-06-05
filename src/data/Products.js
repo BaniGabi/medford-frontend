@@ -50,17 +50,7 @@ const products = [
     price: 400,
     InStock: true,
   },
-  {
-    _id: "6",
-    image:
-      "/images/durgs_list/Anti-Malarial-Medicine-Artemether-Injection-80mg-1ml-with-Best-Quality.png",
-    drugName: "Agary Infusion Giving Set",
-    manufacturer: "emzor",
-    quantity: 50,
-    sku: "box",
-    price: 300,
-    InStock: true,
-  },
+
   {
     _id: "7",
     image: "/images/durgs_list/Astyfer-syrup-200ml.png",
@@ -68,7 +58,7 @@ const products = [
     manufacturer: "emzor",
     quantity: 50,
     sku: "roll",
-    price: 5000,
+    price: 500,
     InStock: true,
   },
   {
@@ -88,7 +78,7 @@ const products = [
     manufacturer: "emzor",
     quantity: 50,
     sku: "roll",
-    price: 9000,
+    price: 900,
     InStock: true,
   },
   {
@@ -138,7 +128,7 @@ const products = [
     manufacturer: "emzor",
     quantity: 50,
     sku: "box",
-    price: 9000,
+    price: 900,
     InStock: true,
   },
   {
@@ -148,7 +138,7 @@ const products = [
     manufacturer: "emzor",
     quantity: 50,
     sku: "roll",
-    price: 1200,
+    price: 120,
     InStock: true,
   },
   {
@@ -158,7 +148,7 @@ const products = [
     manufacturer: "emzor",
     quantity: 50,
     sku: "box",
-    price: 4000,
+    price: 400,
     InStock: true,
   },
   {
